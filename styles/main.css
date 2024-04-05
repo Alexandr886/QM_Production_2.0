@@ -1046,6 +1046,10 @@ section {
     .case-photo-cover {
         width: 100%;
     }
+    .figure-one,
+    .figure-two {
+        display: none;
+    }
 }
 
 @media (max-width: 550px) {
