@@ -31,3 +31,20 @@ function renderPopup() {
 }
 
 
+
+
+// document.addEventListener('DOMContentLoaded', function() {
+//     window.addEventListener('scroll', function() {
+//         const figureFixed = document.querySelector('.figure-one');
+//         let rect = figureFixed.getBoundingClientRect();
+//         // if (rect.top <= 0) {
+//         //     figureFixed.classList.add('fixed');
+//         // }
+//         console.log(rect.top);
+//         if (rect.top <= 0) {
+//             figureFixed.classList.add('fixed');
+//         } else if (rect.top < 0) {
+//             figureFixed.classList.add('fixed');
+//         }
+//     })
+// })
